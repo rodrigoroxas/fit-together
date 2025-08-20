@@ -4,7 +4,7 @@
 
 ---
 
-## ✨ Características principales
+##  Características principales
 - 📌 Registro e inicio de sesión de usuarios.  
 - 🏋️‍♂️ Gestión de rutinas personalizadas.  
 - 🤖 Recomendación de entrenamientos.  
@@ -66,7 +66,14 @@ fit-together/
 │── README.md
 ```
 
+---
+
+## 🖼️ Capturas
+
+![screenshot1](https://i.imgur.com/HrIkTDE.png)
+![screenshot2](https://i.imgur.com/dGtgqlw.png)
+![screenshot3](https://i.imgur.com/yV2y9Dx.png)
 
 ---
 
-✨ Hecho con ❤️ usando **FastAPI** + **React** + **TailwindCSS**
+Hecho con ❤️ usando **FastAPI** + **React** + **TailwindCSS**
